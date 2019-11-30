@@ -53,6 +53,9 @@ class VueServiceContainer {
                     this.add(key, setting)
                 })
             },
+            addVuex(store) {
+                this.options.store = store
+            },
             add(key, setting = false) {
                 const notAnOption = !Object.keys(this.options).includes(key)
                 
