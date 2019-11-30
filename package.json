@@ -1,5 +1,5 @@
 {
-  "name": "vue-service-container",
+  "name": "vue-services-container",
   "description": "Vue JS Service Container, Container around Vue To Hook into and register services before and after vue instance launches",
   "main": "dist/js/main.js",
   "keywords": [
@@ -18,10 +18,10 @@
     "prod": "yarn production"
   },
   "repository": {
-    "url": "https://github.com/clean-code-studio/vue-service-container",
+    "url": "https://github.com/clean-code-studio/vue-services-container",
     "type": "git"
   },
-  "homepage": "https://github.com/clean-code-studio/vue-service-container",
+  "homepage": "https://github.com/clean-code-studio/vue-services-container",
   "author": "Zak Horton <zhorton999@gmail.com> (https://zaktechtips.cleancode.studio)",
   "license": "MIT",
   "dependencies": {
@@ -38,5 +38,5 @@
     "webpack": "^4.28.4",
     "webpack-dev-server": "^3.1.14"
   },
-  "version": "1.0.2"
+  "version": "1.0.0"
 }

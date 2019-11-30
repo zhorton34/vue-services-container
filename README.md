@@ -9,12 +9,12 @@
 
 #### 1. Install
 ```
-  npm i clean-code-studio/vue-service-container
+  npm i clean-code-studio/vue-services-container
 ```
 
 #### 2. Import  
 ``` 
-   import { CreateVueServiceContainer } from 'vue-service-container'
+   import { CreateVueServiceContainer } from 'vue-services-container'
 ```
 
 
