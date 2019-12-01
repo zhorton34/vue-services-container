@@ -294,3 +294,36 @@ window.Container.afterLaunching(({ container, app }) => {
 window.Container.launch() 
 ```
 
+Zachary Horton ~ Clean Code Studio ~ Clean Code Clean Life ~ Simplify!
+https://cleancode.studio
+https://zaktechtips.cleancode.studio
+
+
+#### CleanCodeStudio VueJS Tutorials
+
+Vue JS Reactivity & The Virtual DOM
+https://www.youtube.com/watch?v=UATgNA8_X5c&list=PLNuh5_K9dfQ1RaUIgP9-LnQuoAc2tFZUO&index=2&t=0s
+
+Vue's Reactivity System
+https://www.youtube.com/watch?v=twe-QvJF-x4&list=PLNuh5_K9dfQ1RaUIgP9-LnQuoAc2tFZUO&index=3&t=0s
+
+Vue's Virtual DOM
+https://www.youtube.com/watch?v=F3TQs1pUgzM&list=PLNuh5_K9dfQ1RaUIgP9-LnQuoAc2tFZUO&index=4&t=0s
+
+Vue Data Options ~ Two Way Binding Data
+https://www.youtube.com/watch?v=u388ib0KdL8&list=PLNuh5_K9dfQ1RaUIgP9-LnQuoAc2tFZUO&index=5&t=0s
+
+Vue JS ~ Methods, Events, and Event Modifiers
+https://www.youtube.com/watch?v=q6ydM0VJ_ck&list=PLNuh5_K9dfQ1RaUIgP9-LnQuoAc2tFZUO&index=6&t=0s
+
+Refactoring VueJS to be more Data Centric
+https://www.youtube.com/watch?v=S_w69yD5Gko&list=PLNuh5_K9dfQ1RaUIgP9-LnQuoAc2tFZUO&index=7&t=0s
+
+Vue Computed Properties
+https://www.youtube.com/watch?v=CgBK4dbVZPY&list=PLNuh5_K9dfQ1RaUIgP9-LnQuoAc2tFZUO&index=8&t=0s
+
+Vuejs Watchers
+https://www.youtube.com/watch?v=TnJp2EEdOZM&list=PLNuh5_K9dfQ1RaUIgP9-LnQuoAc2tFZUO&index=9&t=0s
+
+Vue JS Props 
+https://www.youtube.com/watch?v=0HMkrrx6krw&list=PLNuh5_K9dfQ1RaUIgP9-LnQuoAc2tFZUO&index=10&t=0s
