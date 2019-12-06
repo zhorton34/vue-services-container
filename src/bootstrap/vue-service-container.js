@@ -64,6 +64,7 @@ class VueServiceContainer {
                 const settingIsArray = Array.isArray(setting)
                 const settingIsObject = typeof setting === 'object'
                 const settingIsAString = typeof setting === 'string'
+                const settingIsAFunction = typeof setting === 'function'
 
                 if (settingIsAString) {
                     this.options[key] = setting
@@ -73,6 +74,13 @@ class VueServiceContainer {
                         ...setting,
                         ...this.options[key]
                     ]
+                }
+                if (settingIsAFunction) {
+                    const old = this.options[key]();
+                    const append = setting();
+                    this.options[key] = () => {
+                        return { ...old, ...append }
+                    }
                 }
                 if (settingIsObject && !settingIsArray) {
                     this.options[key] = {
