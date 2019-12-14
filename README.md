@@ -9,7 +9,7 @@
 
 #### 1. Install
 ```
-  npm i clean-code-studio/vue-services-container
+  npm i vue-services-container
 ```
 
 #### 2. Import  
