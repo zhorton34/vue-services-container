@@ -5,14 +5,13 @@
 	</head>
 	<body>
 		<div style='padding:10%' id='app'>
-<!-- 			<hello-world inline-template>
-				<div>
-					<button @click='$Event.fire("log", "hello world")'>
-						{{ title }}
-					</button>
-				</div>
-			</hello-world> -->
+			<div>
+				Test
+			</div>
 		</div>
 	</body>	
 	<script src='../dist/js/main.js'></script>
+	<script>
+		window.Container = CreateVueServiceContainer({ test: 'hello world' })
+	</script>
 </html>

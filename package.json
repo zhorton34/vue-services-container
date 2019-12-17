@@ -30,7 +30,8 @@
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
     "cross-env": "^5.2.0",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vuejs-service-container": "^1.0.0"
   },
   "devDependencies": {
     "laravel-mix": "^4.0.14",
